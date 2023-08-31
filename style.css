@@ -1,0 +1,27 @@
+footer {
+  height: 400px;
+  background-color: black;
+  color:white;
+}
+footer #coloringtext {
+    
+  color: blueviolet;
+}
+
+div{
+    text-align: center;
+}
+
+footer #extraText{
+     margin-top: 10px;
+    text-align: center;
+}
+
+
+footer #copyright{
+
+
+        margin-top: 20px;
+    text-align: center;
+    color: rgba(255, 255, 255, 0.143);
+}
